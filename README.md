@@ -1,10 +1,10 @@
-# markdown-html [![NPM version](https://badge.fury.io/js/markdown-html.svg)](http://badge.fury.io/js/markdown-html) [![Build Status](https://travis-ci.org/pwlmaciejewski/markdown-html.svg)](https://travis-ci.org/pwlmaciejewski/markdown-html)
+# markdown-html-fixed [![NPM version](https://badge.fury.io/js/markdown-html-fixed.svg)](http://badge.fury.io/js/markdown-html-fixed) [![Build Status](https://travis-ci.org/belphemur/markdown-html.svg)](https://travis-ci.org/belphemur/markdown-html)
 
 ## Information
 
 <table>
 <tr> 
-<td>Package</td><td>markdown-html</td>
+<td>Package</td><td>markdown-html-fixed</td>
 </tr>
 <tr>
 <td>Description</td>
@@ -13,6 +13,8 @@
 <tr>
 <td>Node Version</td>
 <td>>= 0.10</td>
+<td>>= 5</td>
+<td>>= 6</td>
 </tr>
 </table>
 

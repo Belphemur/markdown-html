@@ -1,12 +1,15 @@
 {
   "author": "Pawel Maciejewski <fragphace@gmail.com> (http://fragphace.pl)",
+  "contributors": [
+    "Antoine Aflalo <antoine@aaflalo.me> (https://www.aaflalo.me)"
+  ],
   "name": "markdown-html-fixed",
   "description": "Command line tool for markdown to html conversion.",
   "version": "0.1.0",
-  "homepage": "https://github.com/fragphace/markdown-html",
+  "homepage": "https://github.com/belphemur/markdown-html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fragphace/markdown-html.git"
+    "url": "git://github.com/belphemur/markdown-html.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -20,7 +23,8 @@
   "keywords": [
     "markdown",
     "html",
-    "shell"
+    "shell",
+    "transcriptor"
   ],
   "bin": {
     "markdown-html": "./index.js"

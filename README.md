@@ -1,4 +1,4 @@
-# markdown-html-fixed [![NPM version](https://badge.fury.io/js/markdown-html-fixed.svg)](http://badge.fury.io/js/markdown-html-fixed) [![Build Status](https://travis-ci.org/belphemur/markdown-html.svg)](https://travis-ci.org/belphemur/markdown-html)
+# markdown-html-fixed [![NPM version](https://badge.fury.io/js/markdown-html-fixed.svg)](http://badge.fury.io/js/markdown-html-fixed)[![Build Status](https://travis-ci.org/Belphemur/markdown-html.svg?branch=master)](https://travis-ci.org/Belphemur/markdown-html)
 
 ## Information
 

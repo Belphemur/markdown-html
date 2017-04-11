@@ -1,4 +1,4 @@
-# markdown-html-fixed [![NPM version](https://badge.fury.io/js/markdown-html-fixed.svg)](http://badge.fury.io/js/markdown-html-fixed)[![Build Status](https://travis-ci.org/Belphemur/markdown-html.svg?branch=master)](https://travis-ci.org/Belphemur/markdown-html)
+# markdown-html-fixed [![NPM version](https://badge.fury.io/js/markdown-html-fixed.svg)](http://badge.fury.io/js/markdown-html-fixed) [![Build Status](https://travis-ci.org/Belphemur/markdown-html.svg?branch=master)](https://travis-ci.org/Belphemur/markdown-html)
 
 ## Information
 
@@ -12,9 +12,15 @@
 </tr>
 <tr>
 <td>Node Version</td>
-<td>>= 0.10 & 5 & 6 </td>
+<td>&ge; 0.10 & 5 & 6 </td>
 </tr>
 </table>
+
+## Install
+
+To use globally from the command line:
+    
+    npm install markdown-html-fixed -g
 
 ## Usage
 
